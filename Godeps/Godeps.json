@@ -1,0 +1,5 @@
+{
+	"ImportPath": "pinfeed",
+	"GoVersion": "go1.5.1",
+	"Deps": []
+}
